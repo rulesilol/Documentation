@@ -1,4 +1,4 @@
-site_name: My Docs
-site_url: https://127.0.0.1/mysite
+site_name: My Documentation Site
+site_url: docs.geodesec.tech
 theme:
   name: material
