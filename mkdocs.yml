@@ -1,4 +1,4 @@
-site_name: My Documentation Site
-site_url: docs.geodesec.tech
+site_name: My Documentation Page
+site_url: https://docs.geodesec.tech
 theme:
   name: material
